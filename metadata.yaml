@@ -1,5 +1,8 @@
 _repo: The-Influence-of-Sea-Power-upon-the-French-Revolution-and-Empire-1793-1812-vol-2_52589
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52589-h/images/cover.jpg
 creator:
   author:
     agent_name: Mahan, A. T. (Alfred Thayer)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5116
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52589#The-Influence-of-Sea-Power-upon-the-French-Revolution-and-Empire-1793-1812-vol-2
 gutenberg_issued: '2016-07-23'
 gutenberg_type: Text
 identifiers:
